@@ -7,3 +7,8 @@ dbms
 codeforces contest div-3
 dbms
 2 graph
+
+#13jan
+dbms
+2 question o fcodeforces
+daily question.
