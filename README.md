@@ -12,3 +12,9 @@ dbms
 dbms
 2 question o fcodeforces
 daily question.
+
+#4th feb
+sql revise notes and basic question
+1hr academics
+vectorDB GEN_AI
+CF-1200
