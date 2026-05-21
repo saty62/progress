@@ -18,3 +18,6 @@ sql revise notes and basic question
 1hr academics
 vectorDB GEN_AI
 CF-1200
+#21st May
+1 segment Tree question 
+Learn Docker 
