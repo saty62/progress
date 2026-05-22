@@ -21,3 +21,6 @@ CF-1200
 #21st May
 1 segment Tree question 
 Learn Docker 
+#22nd may
+1 segment tree bit mask 1800 CF
+Rate Limiter System design
