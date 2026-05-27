@@ -30,3 +30,5 @@ Rate Limiter System design
 
 #24th may
 jump game 5
+#27 th may
+kafka and system design consistent hashing
